@@ -1,0 +1,140 @@
+PS C:\Users\olara\OneDrive\Documents\Code> & C:/Users/olara/AppData/Local/Programs/Python/Python311/python.exe "c:/Users/olara/OneDrive/Documents/Code/Pygame Project/game.py"
+Enter number of players: 3
+Enter player name: abc
+Enter player name: def
+Enter player name: ghi
+Set a maximum amount of hands to play: 3
+------------------------------------------------
+Deck generated and shuffled
+STARTING GAME
+------------------------------------------------
+Round  1
+Taking bets
+abc, 1000 left in wallet, place your bet: 1000  
+def, 1000 left in wallet, place your bet: 500
+ghi, 1000 left in wallet, place your bet: 100
+Betting closed 
+Round starting, dealing cards
+--------------------------------------
+6 of ♢ drawn to  abc
+6 of ♡ drawn to  def
+3 of ♤ drawn to  ghi
+8 of ♢ drawn to  Dealer
+Ace of ♤ drawn to  abc
+4 of ♧ drawn to  def
+4 of ♧ drawn to  ghi
+Jack of ♧ drawn to  Dealer
+--------------------------------------
+8 of ♢ ,  Jack of ♧ , Dealer hand value:  18
+--------------------------------------
+PRESS A TO HIT OR L TO STAND
+abc | 6 of ♢ ,  Ace of ♤ | Hand value:  17
+King of ♢
+abc's current hand value: 17
+King of ♧
+abc's current hand value: 27
+Player Bust
+--------------------------------------
+PRESS A TO HIT OR L TO STAND
+def | 6 of ♡ ,  4 of ♧ | Hand value:  10
+King of ♧
+def's current hand value: 20
+def stands on 20
+--------------------------------------
+PRESS A TO HIT OR L TO STAND
+ghi | 3 of ♤ ,  4 of ♧ | Hand value:  7
+4 of ♡
+ghi's current hand value: 11
+3 of ♡
+ghi's current hand value: 14
+9 of ♢
+ghi's current hand value: 23
+Player Bust
+--------------------------------------
+Dealer in play
+8 of ♢ ,  Jack of ♧ | Dealer hand value:  18
+Dealer stands on  18
+--------------------------------------
+Distributing winnings and resetting round
+CURRENT STANDINGS:
+abc loses £1000, 0 left in wallet
+abc is bankrupt, removing from game
+def wins £500, 1500 in wallet
+ghi loses £100, 900 left in wallet
+------------------------------------------------
+Round  2
+Taking bets
+def, 1500 left in wallet, place your bet: 1500   
+ghi, 900 left in wallet, place your bet: 500
+Betting closed 
+Round starting, dealing cards
+--------------------------------------
+10 of ♤ drawn to  def
+7 of ♧ drawn to  ghi
+Ace of ♤ drawn to  Dealer
+King of ♡ drawn to  def
+9 of ♢ drawn to  ghi
+Ace of ♡ drawn to  Dealer
+--------------------------------------
+Ace of ♤ ,  Ace of ♡ , Dealer hand value:  12
+--------------------------------------
+PRESS A TO HIT OR L TO STAND
+def | 10 of ♤ ,  King of ♡ | Hand value:  20
+def stands on 20
+--------------------------------------
+PRESS A TO HIT OR L TO STAND
+ghi | 7 of ♧ ,  9 of ♢ | Hand value:  16
+ghi stands on 16
+--------------------------------------
+Dealer in play
+Ace of ♤ ,  Ace of ♡ | Dealer hand value:  12
+7 of ♧
+Dealer hand value: 19
+Dealer stands on  19
+--------------------------------------
+Distributing winnings and resetting round
+CURRENT STANDINGS:
+def wins £1500, 3000 in wallet
+ghi loses £500, 400 left in wallet
+------------------------------------------------
+Round  3
+Taking bets
+def, 3000 left in wallet, place your bet: 1 
+ghi, 400 left in wallet, place your bet: 400
+Betting closed 
+Round starting, dealing cards
+--------------------------------------
+King of ♤ drawn to  def
+3 of ♤ drawn to  ghi
+2 of ♧ drawn to  Dealer
+9 of ♡ drawn to  def
+6 of ♧ drawn to  ghi
+6 of ♤ drawn to  Dealer
+--------------------------------------
+2 of ♧ ,  6 of ♤ , Dealer hand value:  8
+--------------------------------------
+PRESS A TO HIT OR L TO STAND
+def | King of ♤ ,  9 of ♡ | Hand value:  19
+def stands on 19
+--------------------------------------
+PRESS A TO HIT OR L TO STAND
+ghi | 3 of ♤ ,  6 of ♧ | Hand value:  9
+7 of ♤
+ghi's current hand value: 16
+ghi stands on 16
+--------------------------------------
+Dealer in play
+2 of ♧ ,  6 of ♤ | Dealer hand value:  8
+Jack of ♡
+Dealer hand value: 18
+Dealer stands on  18
+--------------------------------------
+Distributing winnings and resetting round
+CURRENT STANDINGS:
+def wins £1, 3001 in wallet
+ghi loses £400, 0 left in wallet
+ghi is bankrupt, removing from game
+------------------------------------------------
+Final standings:
+def | 3001
+PS C:\Users\olara\OneDrive\Documents\Code>
